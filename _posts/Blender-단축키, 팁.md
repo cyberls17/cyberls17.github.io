@@ -1,0 +1,40 @@
+---
+layout: post
+title: [Blender 단축키, 팁]
+author: "cyberls17"
+category: [blender]
+tags: [blender]
+---
+
+# Blender 단축키, 팁 정리
+
+## Blender 단축키
+휠 올리기: 확대<br>
+휠 내리기: 축소<br>
+휠 드래그: 화면 회전<br>
+물체 좌클릭: 물체 선택<br>
+배경 좌클릭: 물체 선택 해제<br>
+Shift + 좌클릭: 다중 선택<br>
+우클릭: 메뉴<br>
+A: 전체 선택<br>
+A A or Alt + A: 전체 선택 해제<br>
+Delete or X: 물체 삭제<br>
+Shift + A: 물체 생성<br>
+H: 물체 숨기기(Hide)<br>
+Alt + H: 숨겨진 물체 다시 표시<br>
+/: 선택한 물체만 보이기<br>
+/(한번 더 누르기): 선택한 물체 표시 해제<br>
+F2 or 이름 위에서 더블 클릭: 이름 바꾸기<br>
+`[~]: View 파이 창 띄우기<br>
+G: 물체 이동(Grab) (이동 중 X, Y, Z로 X축, Y축, Z축 고정 가능)<br>
+물체 이동 중 Shift: 섬세한 이동<br>
+R: 물체 회전(Rotate)<br>
+회전 상태에서 Shift: 섬세한 회전<br>
+S: 물체 크기 조절(Scale)<br>
+크기 조절 중 Shift: 섬세한 크기 조절<br>
+Tab: Object 모드, Edit 모드 전환<br>
+Shift + D: 물체 복제(Duplicate)<br>
+Shift + R: 이전 행동 반복(Repeat)<br>
+Ctrl + J: 그룹(Join)<br>
+L: Edge로 연결된 Vertex 모두 선택(Link)<br>
+P: 선택한 물체 분리(Separate)<br>
