@@ -2,7 +2,7 @@
 layout: post
 title: [HackCTF Forensic - Welcome_Forensics]
 author: "cyberls17"
-category: [Wargame-Write-up, HackCTF]
+category: [Wargame Write-up, HackCTF]
 tags: [Write-up]
 ---
 
